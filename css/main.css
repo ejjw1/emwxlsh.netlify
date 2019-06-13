@@ -1,0 +1,24 @@
+.site-header{
+    background-color: lightblue;
+    color: white;
+    height: 100vh;
+    font-family: Georgia;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+.picture{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    box-shadow: #81abb9 5px 10px 10px;
+}
+
+body{
+    margin: 5;
+}
