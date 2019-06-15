@@ -1,7 +1,7 @@
 .site-header{
-    background-color: lightblue;
+    background-color: blueviolet;
     color: white;
-    height: 100vh;
+    height: 120vh;
     font-family: Georgia;
     display:flex;
     flex-direction:column;
@@ -9,8 +9,19 @@
     align-items: center;
 }
 
+.site-header.circles.c1{
+    left: -25px;
+    top: -25px;
+}
+
+
+
 .site-header-content{
-    margin: 10px;
+    margin: 50px;
+}
+
+.site-header h4{
+    text-align: center;
 }
 .picture{
     border-radius: 50%;
