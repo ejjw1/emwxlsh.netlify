@@ -1,5 +1,5 @@
 .site-header{
-    background-color: blueviolet;
+    background-color: #c38d93;
     color: white;
     height: 120vh;
     font-family: Georgia;
@@ -27,7 +27,7 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    box-shadow: #81abb9 5px 10px 10px;
+    box-shadow: white 0.5px 0px 30px;
 }
 
 body{
